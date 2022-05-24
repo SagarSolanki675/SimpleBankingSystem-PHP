@@ -1,8 +1,7 @@
 # SimpleBankingSystem-PHP
 This is a Basic Banking System which was made as a part of the web development internship at the sparks foundation.
 
-
-GRIP@ Sparks Foundation web development and designing internship Task-1 Basic Banking website The Sparks Foundation Tasks.
+GRIP@The Sparks Foundation || Web Development and Designing Internship || Task-1 :- Basic Banking website || The Sparks Foundation Tasks.
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
 Internship Category - Web Development and Design Internship Duration - 1 Month ( May-2022 ). 
